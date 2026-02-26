@@ -1,0 +1,103 @@
+# API Keys and Secrets
+.env
+.env.local
+.env.*.local
+*.key
+api_keys.txt
+secrets.json
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules (if using npm)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+*.test.js
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Build outputs
+dist/
+build/
+out/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Local development
+local_settings.py
+.envrc
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
